@@ -1,4 +1,4 @@
-Proyecto de ejemplo utilizando React y Parcel.
+Proyecto de ejemplo utilizando React y Vite.
 
 ## Instalación
 
@@ -8,7 +8,7 @@ npm install
 
 ## Uso
 
-Inicia un servidor de desarrollo con:
+Inicia un servidor de desarrollo con Vite:
 
 ```bash
 npm start
