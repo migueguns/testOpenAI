@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import CarList from './CarList';
-import CarDetail from './CarDetail';
+import CarList from './CarList.jsx';
+import CarDetail from './CarDetail.jsx';
 
 export default function App() {
   return (
