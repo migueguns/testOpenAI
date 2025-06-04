@@ -1,1 +1,15 @@
-Inicio
+Proyecto de ejemplo utilizando React y Parcel.
+
+## Instalación
+
+```bash
+npm install
+```
+
+## Uso
+
+Inicia un servidor de desarrollo con:
+
+```bash
+npm start
+```
